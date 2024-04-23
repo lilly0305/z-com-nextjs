@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="370262da-aaae-4ada-bf5a-0e0358cb26c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/(.)i/flow/signup/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/LoginModal.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/Main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/SignUpModal.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/signup.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/(.)i/flow/login/login.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/login.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/(.)i/flow/login/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/(.)i/flow/login/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/default.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/default.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/i/flow/login/login.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/i/flow/login/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/i/flow/login/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/i/flow/signup/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/i/flow/signup/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/login/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/login/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/main.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/main.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/signup.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/signup.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +86,7 @@
       <workItem from="1713771358237" duration="5823000" />
       <workItem from="1713778079713" duration="1915000" />
       <workItem from="1713838518337" duration="565000" />
-      <workItem from="1713839087371" duration="1115000" />
+      <workItem from="1713839087371" duration="1376000" />
     </task>
     <servers />
   </component>
