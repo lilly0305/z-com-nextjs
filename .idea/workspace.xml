@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="370262da-aaae-4ada-bf5a-0e0358cb26c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/(afterLogin)/_component/LogoutButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(afterLogin)/_component/NavMenu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(afterLogin)/_component/logoutButton.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(afterLogin)/_component/navMenu.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(afterLogin)/layout.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/main.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/signup.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/signup.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(afterLogin)/[username]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(afterLogin)/[username]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(afterLogin)/[username]/status/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(afterLogin)/[username]/status/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(afterLogin)/compose/tweet/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(afterLogin)/compose/tweet/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(afterLogin)/explore/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(afterLogin)/explore/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(afterLogin)/home/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(afterLogin)/home/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(afterLogin)/home/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(afterLogin)/home/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(afterLogin)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(afterLogin)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(afterLogin)/messages/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(afterLogin)/messages/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(afterLogin)/search/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(afterLogin)/search/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +47,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "section1",
+    "git-widget-placeholder": "section2",
     "last_opened_file_path": "/Users/lilly/Documents/lilly/study/inflearn/frontend/nextjs/z-com/src/app/(beforeLogin)/_component",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -86,7 +98,7 @@
       <workItem from="1713771358237" duration="5823000" />
       <workItem from="1713778079713" duration="1915000" />
       <workItem from="1713838518337" duration="565000" />
-      <workItem from="1713839087371" duration="1376000" />
+      <workItem from="1713839087371" duration="7540000" />
     </task>
     <servers />
   </component>

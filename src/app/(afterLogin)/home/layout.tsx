@@ -1,9 +1,8 @@
 import React, {ReactNode} from 'react';
 
-function Home({children}: {children: ReactNode}) {
+export default function Home({children}: {children: ReactNode}) {
   return (
     <div>{children}</div>
   );
 }
 
-export default Home;
