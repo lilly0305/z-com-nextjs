@@ -9,7 +9,6 @@ type Props = {
 function Layout({children, modal}: Props) {
   return (
     <div className={styles.container}>
-      BeforeLoginLayout
       {children}
 
       {modal}

@@ -5,34 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="370262da-aaae-4ada-bf5a-0e0358cb26c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/5Udwvqim.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/yRsRRjGO.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/zlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(afterLogin)/[username]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(afterLogin)/[username]/status/[id]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(afterLogin)/compose/tweet/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(afterLogin)/explore/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(afterLogin)/home/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(afterLogin)/home/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(afterLogin)/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(afterLogin)/messages/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(afterLogin)/search/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/(.)i/flow/login/Page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/(.)i/flow/login/login.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/default.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/i/flow/login/login.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/i/flow/login/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/i/flow/signup/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/login/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/not-found.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/(.)i/flow/login/Page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/(.)i/flow/login/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,21 +33,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/lilly/Documents/lilly/study/inflearn/frontend/nextjs/z-com/src/app/(beforeLogin)/i/flow/login&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/lilly/Documents/lilly/study/inflearn/frontend/nextjs/z-com/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "section1",
+    "last_opened_file_path": "/Users/lilly/Documents/lilly/study/inflearn/frontend/nextjs/z-com/src/app/(beforeLogin)/i/flow/login",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/lilly/Documents/lilly/study/inflearn/frontend/nextjs/z-com/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>

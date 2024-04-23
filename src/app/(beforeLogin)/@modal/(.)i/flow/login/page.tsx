@@ -28,7 +28,7 @@ export default function LoginModal() {
               </g>
             </svg>
           </button>
-          <div>로그인하세요.</div>
+          <div>가로채기 로그인하세요.</div>
         </div>
         <form onSubmit={onSubmit}>
           <div className={style.modalBody}>
