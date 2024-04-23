@@ -5,11 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="370262da-aaae-4ada-bf5a-0e0358cb26c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/(.)i/flow/signup/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/LoginModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/Main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/SignUpModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/signup.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/(.)i/flow/login/Page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/(.)i/flow/login/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/(.)i/flow/login/login.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/login.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/(.)i/flow/login/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/(.)i/flow/login/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/default.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/default.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/i/flow/login/login.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/i/flow/login/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/i/flow/login/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/i/flow/signup/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/i/flow/signup/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/login/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/login/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/(beforeLogin)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(beforeLogin)/_component/main.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +50,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "section1",
-    "last_opened_file_path": "/Users/lilly/Documents/lilly/study/inflearn/frontend/nextjs/z-com/src/app/(beforeLogin)/i/flow/login",
+    "last_opened_file_path": "/Users/lilly/Documents/lilly/study/inflearn/frontend/nextjs/z-com/src/app/(beforeLogin)/_component",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.better_highlights.comments",
     "ts.external.directory.path": "/Users/lilly/Documents/lilly/study/inflearn/frontend/nextjs/z-com/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -59,18 +72,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/(beforeLogin)/_component" />
       <recent name="$PROJECT_DIR$/src/app/(beforeLogin)/i/flow/login" />
       <recent name="$PROJECT_DIR$/src/app/[username]" />
       <recent name="$PROJECT_DIR$/src/app/messages" />
       <recent name="$PROJECT_DIR$/src/app/i/flow/signup" />
-      <recent name="$PROJECT_DIR$/src/app/i/flow/login" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/(beforeLogin)/_component" />
       <recent name="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/(.)i" />
       <recent name="$PROJECT_DIR$/src/app/(beforeLogin)" />
       <recent name="$PROJECT_DIR$/src/app" />
       <recent name="$PROJECT_DIR$/src/app/(beforeLogin)/@modal/i/flow/login" />
-      <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -86,6 +99,8 @@
       <workItem from="1713748910562" duration="2206000" />
       <workItem from="1713771358237" duration="5823000" />
       <workItem from="1713778079713" duration="1915000" />
+      <workItem from="1713838518337" duration="565000" />
+      <workItem from="1713839087371" duration="1115000" />
     </task>
     <servers />
   </component>

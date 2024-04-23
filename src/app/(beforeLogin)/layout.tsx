@@ -1,5 +1,7 @@
+// NOTE: private route 1: ()안에 적는다. layout 파일을 두기 위한 용도
+// NOTE: private route 2: _파일명. 폴더 정리용
 import React, {ReactNode} from 'react';
-import styles from '@/app/page.module.css';
+import styles from '@/app/(beforeLogin)/_component/main.module.css';
 
 type Props = {
   children: ReactNode,
